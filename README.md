@@ -23,7 +23,7 @@ The website is hosted on a static hosting provider, so must remain client-only c
 The site uses the following libraries:
 
 - Twitter Bootstrap: http://getbootstrap.com 
-- JQuery: http://www.jquery.com 
+- JQuery: http://www.jquery.com 
 
 ## Image copyright
 
@@ -31,4 +31,4 @@ The images are taken by volunteers from CoderDojo and all participants in these 
 
 ## Hosting
 
-Presently, the site is hosted via Scott Davey's AWS S3 account. This will aim to become shared over time, or at least become automated to github commits.
+The site is hosted via GitHub Pages.  To update this, commit and push your changes into the ```master``` branch. Note that only the ```/docs``` folder is shared.
